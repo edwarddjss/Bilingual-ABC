@@ -1,6 +1,6 @@
 # Bilingual ABC
 
-An interactive alphabet learning app for toddlers (ages 1-3) featuring English and Brazilian Portuguese.
+An interactive alphabet learning app for toddlers featuring English and Brazilian Portuguese.
 
 ## Features
 
